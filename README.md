@@ -7,7 +7,7 @@ Welcome to my QA Portfolio! This repository showcases my Quality Assurance work,
 ## Features
 
 ### User Stories
-- **Directory:** [User Stories](/user_stories)
+- **Directory:** [User Stories](https://github.com/gsepdev/Jira_QAPortfolio/blob/main/userstory_qaportfolio.png)
 - Explore detailed breakdowns of QA tasks mapped to Jira user stories. Gain insights into scope, acceptance criteria, and progress.
 
 ### Epics
