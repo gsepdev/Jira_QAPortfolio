@@ -11,7 +11,7 @@ Welcome to my QA Portfolio! This repository showcases my Quality Assurance work,
 - Explore detailed breakdowns of QA tasks mapped to Jira user stories. Gain insights into scope, acceptance criteria, and progress.
 
 ### Epics
-- **Directory:** [Epics](/epics)
+- **Directory:** [Epics](https://github.com/gsepdev/Jira_QAPortfolio/blob/main/epic_jira.png)
 - View high-level summaries of project goals and milestones through Jira epics.
 
 ### Tasks
