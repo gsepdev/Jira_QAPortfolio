@@ -19,7 +19,7 @@ Welcome to my QA Portfolio! This repository showcases my Quality Assurance work,
 - Dive into specific QA tasks and their progress, organized within Jira.
 
 ### JQL Queries
-- **Directory:** [JQL Queries](/jql_queries)
+- **Directory:** [JQL Queries](https://github.com/gsepdev/Jira_QAPortfolio/blob/main/jql_jira.png)
 - Discover Jupyter Notebooks demonstrating my proficiency in crafting Jira Query Language (JQL) queries for targeted issue tracking and reporting.
 
 ### Sprint Reports
